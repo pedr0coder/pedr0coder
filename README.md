@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Startup**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pedr0coder](https://github.com/pedr0coder)
+- 👨‍💻 All of my projects are available at **Github**
 
 - 💬 Ask me about **react**
 
