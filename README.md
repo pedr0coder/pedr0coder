@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Inclusa Vision**
 
-- 👯 I’m looking to collaborate on **Startup**
+- 🤝 I’m looking to collaborate on **Startup**
 
 - 👨‍💻 All of my projects are available at **Github**
 
